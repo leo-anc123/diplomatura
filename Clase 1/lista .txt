@@ -1,3 +1,6 @@
 pan
 galletas
 frutas
+leche
+huevos
+harina
