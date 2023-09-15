@@ -1,0 +1,21 @@
+.caja {
+    background-color: rgb(255, 115, 0);
+    width: 50%;
+    padding: 10px;
+    margin: 50px;
+    box-shadow: 10px 10px 5px rgb(165, 151, 151); 
+              /* ejeX - ejeY - Des - Color */
+    border-radius: 20px;
+}
+
+
+.textos {
+    background-color: yellow;
+    column-count: 3; /* separacion de columnas por cantidad*/
+    column-gap: 50px; /*grega espacio entre columnas*/
+    column-rule: 1px solid black; /*separacion de columnas por linea*/
+}
+
+.textos p {
+    margin: 0;
+}
