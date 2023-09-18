@@ -1,0 +1,13 @@
+.contenedor {
+    background-color: grey;
+    display: inline-flex;
+    flex-direction: row-reverse;
+
+}
+
+.item {
+    background-color: lightblue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
