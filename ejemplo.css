@@ -81,5 +81,6 @@ footer p{
 
     aside {
         width: 40%;
+        display: none;
     }
 }
