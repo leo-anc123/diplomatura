@@ -1,0 +1,19 @@
+body {
+    display: flex;
+}
+.cuadrado1, .cuadrado2, .cuadrado3 {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.cuadrado1 {
+    background-color: red;
+}
+.cuadrado2 {
+    background-color: blue;
+}
+.cuadrado3 {
+    background-color: yellow;
+}
